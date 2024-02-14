@@ -1,7 +1,7 @@
 # Caio
-I'm Caio, and currently I'm willing to improve my coding skills :))
+I'm Caio, and I want to improve my coding skills so I can make some crazy and cool things :))
 
-##  I'm learning/working with:
+##  I'm currently learning/working with:
 [![My Skills](https://skillicons.dev/icons?i=java,lua,py,css,html,js,ps,ai)](https://skillicons.dev)
 
 ##  How to reach me?
