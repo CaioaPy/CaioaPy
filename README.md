@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @yatomikazuchi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# yatomikazuchi
+
+##- 👀 I have proficiency in
+-Python 
+-Javascript
+-Java
+
+##- 🌱 I’m currently learning
+-Java
+-Python
+
+##- 📫 How to reach me ...
+
+
 
 
 ![linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=yatomikazuchi&layout=compact&theme=date_night)
