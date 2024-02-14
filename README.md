@@ -7,4 +7,4 @@ I'm Caio, and currently I'm willing to improve my coding skills :))
 ##  How to reach me?
 [![Linkedin](https://skillicons.dev/icons?i=linkedin,)](linkedin.com/in/caio-abner-3421b0245/)
 
-![linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=yatomikazuchi&layout=compact&theme=date_night)
+![linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioaPy&layout=compact&theme=date_night)
