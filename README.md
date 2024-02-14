@@ -1,5 +1,5 @@
-# yatomikazuchi
-I'm caio, and currently I'm willing to improve my coding skills :))
+# Caio
+I'm Caio, and currently I'm willing to improve my coding skills :))
 
 ##  I'm learning/working with:
 [![My Skills](https://skillicons.dev/icons?i=java,lua,py,css,html,js,ps,ai)](https://skillicons.dev)
