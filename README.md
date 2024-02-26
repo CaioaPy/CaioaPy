@@ -1,5 +1,5 @@
 # Caio
-I'm Caio, and I want to improve my coding skills so I can make some crazy and cool things :))
+Heloo I'm Caio, and I want to improve my coding skills so I can make some crazy and cool things :))
 
 ##  I'm currently learning/working with:
 [![My Skills](https://skillicons.dev/icons?i=java,py,html,css,js,ps,ai)](https://skillicons.dev)
