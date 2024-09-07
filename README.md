@@ -1,6 +1,6 @@
 # Caio
 ### Heloo I'm Caio,
-### I want to improve my coding skills so I can make some crazy and cool things :))
+### I want to improve my coding skills so I can make the most crazy and cool things :))
 
 ##  I'm currently learning/working with:
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,java,html,css,js,react,mysql,)](https://skillicons.dev)
