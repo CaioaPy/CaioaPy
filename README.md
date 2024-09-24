@@ -3,7 +3,7 @@
 ### Hellooo, I'm Caio! :3  
 I’m always looking to enhance my coding skills to create amazing and innovative projects. I believe programming is an art form, and I'm here to explore all its possibilities!
 
-## Currently learning/working with:
+## Technologies I'm currently learning and working with:
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,java,html,css,js,react,azure,mysql,git)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioaPy&hide_progress=true&theme=dark)
