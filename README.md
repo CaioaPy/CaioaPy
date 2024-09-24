@@ -1,8 +1,8 @@
 # Caio
-### Heloo I'm Caio,
-### I want to improve my coding skills so I can make the most crazy and cool things :))
+### Helloo I'm Caio :3
+### I'm always looking for improve my coding skills so I can make the most crazy and cool things :))
 
-##  I'm currently learning/working with:
+## Currently learning/working with:
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,java,html,css,js,react,azure,mysql,git)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioaPy&hide_progress=true&theme=dark)
