@@ -1,6 +1,6 @@
 # Caio
 
-### Hellooo, I'm Caio! :3  
+### Hellooo, I'm Caio :3  
 I’m always looking to enhance my coding skills to create amazing and innovative projects. I believe programming is an art form, and I'm here to explore all its possibilities!
 
 ## Technologies I'm currently learning and working with:
