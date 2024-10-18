@@ -13,3 +13,6 @@ I’m always looking to enhance my coding skills to create amazing and innovativ
 If you'd like to collaborate on projects or get in touch with me, feel free to reach out to me on LinkedIn:  
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin,)](https://linkedin.com/in/caioapy/)
+
+## My contributions
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
