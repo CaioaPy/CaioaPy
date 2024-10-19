@@ -9,8 +9,6 @@ I’m always looking to enhance my coding skills to create amazing and innovativ
 
 ## My Stats
 ![Achievments](https://github-profile-trophy.vercel.app/?username=CaioaPy&row=1&column=3&theme=dracula&margin-w=15&margin-h=1)
-### 
-[![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CaioaPy&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CaioaPy&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ## Contributions
