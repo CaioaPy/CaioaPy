@@ -7,7 +7,7 @@ I’m always looking to enhance my coding skills to create amazing and innovativ
 ## IDEs:
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## My Stats
+## Stats
 ![Achievments](https://github-profile-trophy.vercel.app/?username=CaioaPy&row=1&column=3&theme=dracula&margin-w=15&margin-h=1)
 [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CaioaPy&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
