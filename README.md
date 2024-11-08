@@ -4,7 +4,7 @@ I'm buzzing around, always looking to enhance my coding skills to create amazing
 ## Technologies I'm currently learning and pollinating with:
 ![My Skills](https://skillicons.dev/icons?i=py,cpp,java,html,css,js,react,lua,azure,mysql,git)
 
-## Favorite hives (IDEs):
+## Favorite hives (IDEs): $~~~~~~~~~~~~~~~~$🐝 ----
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Stats (Look at this buzz-y hive of activity!)
@@ -14,7 +14,7 @@ I'm buzzing around, always looking to enhance my coding skills to create amazing
 ## Contributions
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
-## Let’s Connect and Make Honey!  
-Whether you’re into projects that need a touch of honey (or code), or just want to chat, feel free to reach out! 🐝  
+## Let’s Connect and Make Honey! 🍯
+Whether you’re into projects that need a touch of honey (or code), or just want to chat, feel free to reach out!
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin,)](https://linkedin.com/in/caioapy/)
