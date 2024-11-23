@@ -10,7 +10,7 @@ I'm buzzing around, always looking to enhance my coding skills to create amazing
 ## Stats (Look at this buzz-y hive of activity!)
 ![Achievments](https://github-profile-trophy.vercel.app/?username=CaioaPy&row=1&column=3&theme=dracula&margin-w=15&margin-h=1)
 [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CaioaPy&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
+!!
 ## Contributions
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
