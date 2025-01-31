@@ -5,7 +5,7 @@ I'm buzzing around, always looking to enhance my coding skills to create amazing
 To blend creativity and logic into meaningful solutions that inspire and deliver value.
 
 ## Technologies I'm currently learning and pollinating with:  
-![My Skills](https://skillicons.dev/icons?i=py,cs,dotnet,react,js,html,css,aws,azure,mongodb,mysql,git)  
+![My Skills](https://skillicons.dev/icons?i=cs,dotnet,react,js,html,css,py,docker,aws,azure,mongodb,mysql,git,postman)  
 
 ---
 
