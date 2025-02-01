@@ -5,17 +5,12 @@ I'm buzzing around, always looking to enhance my coding skills to create amazing
 To blend creativity and logic into meaningful solutions that inspire and deliver value.
 
 ## Technologies I'm currently learning and pollinating with: 
-### Programming Languages:
-![My Skills](https://skillicons.dev/icons?i=cs,js,html,css,py) 
-
-### Frameworks:
-![My Skills](https://skillicons.dev/icons?i=react,dotnet) 
-
-### Frontend Development:
-![My Skills](https://skillicons.dev/icons?i=react,js,html,css)
 
 ### Backend Development:
 ![My Skills](https://skillicons.dev/icons?i=dotnet,cs,py)
+
+### Frontend Development:
+![My Skills](https://skillicons.dev/icons?i=react,js,html,css)
 
 ### Database:
 ![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgresql)
