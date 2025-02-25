@@ -14,18 +14,8 @@ Where the magic happens:
 
 ![Technical Skills](https://skillicons.dev/icons?i=visualstudio,vscode&perline=2)
 
-## GitHub Stats
-
-A peek into my coding journey:
-
-![Achievements](https://github-profile-trophy.vercel.app/?username=CaioaPy&row=1&column=3&theme=dracula&margin-w=15&margin-h=1)
-
-[![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CaioaPy&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-![Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
-
 ## Let’s Connect!
 
-If you’re looking for a partner in creativity or simply want to chat about innovative projects, feel free to reach out:
+If you want to get in touch with me, feel free to reach out!
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/caioapy/)
