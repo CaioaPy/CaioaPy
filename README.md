@@ -19,3 +19,5 @@ Where the magic happens:
 If you want to get in touch with me, feel free to reach out!
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/caioapy/)
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
