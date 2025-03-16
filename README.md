@@ -1,6 +1,6 @@
 # Hellooo, I'm Caio :3
 
-I’m a **Full Stack Developer** with a passion for crafting scalable, secure, and high-performance systems. Since 2023, I’ve been designing robust APIs, streamlining processes, and integrating systems using modern technologies like **C#, .NET Core, TypeScript, React, Vite, JavaScript, Node.js, Python, HTML, CSS, AWS, Azure, Docker, MySQL, PostgreSQL, Git, Postman, GitHub, and Vercel**. I thrive in agile environments, leveraging **Scrum and TDD** to bring creative ideas to life, ensuring efficiency and maintainability in every project.
+I’m a Full Stack Developer with a passion for crafting scalable, secure, and high-performance systems. Since 2023, I’ve been designing robust APIs, streamlining processes, and integrating systems using modern technologies like C#, .NET Core, TypeScript, React, Vite, JavaScript, Node.js, Python, HTML, CSS, AWS, Azure, Docker, MySQL, PostgreSQL, Git, Postman, GitHub, and Vercel. I thrive in agile environments, leveraging Scrum and TDD to bring creative ideas to life, ensuring efficiency and maintainability in every project.
 
 ## Technical Skills
 
