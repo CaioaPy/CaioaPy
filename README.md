@@ -6,7 +6,7 @@ I’m a Full Stack Developer with a passion for crafting scalable, secure, and h
 
 My expertise spans across a diverse tech stack, allowing me to develop end-to-end solutions that are both robust and scalable. Whether it's building high-performance APIs, crafting dynamic user experiences, or managing cloud infrastructure, I focus on creating well-structured, maintainable, and efficient applications.
 
-![Technical Skills](https://skillicons.dev/icons?i=dotnet,cs,ts,react,vite,js,nodejs,py,html,css,aws,azure,docker,mysql,postgresql,git,postman,github,vercel&perline=7)
+![Technical Skills](https://skillicons.dev/icons?i=dotnet,cs,ts,react,vite,js,nodejs,graphql,py,html,css,aws,azure,docker,mysql,postgresql,git,postman,github,vercel&perline=7)
 
 ## Favorite IDEs
 
